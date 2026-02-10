@@ -41,12 +41,13 @@ The goal was to simulate real-world retail analytics using structured query lang
 
 ## 📂 Project Structure
 
+```
 Zepto-SQL-Data-Analysis/
 │
 ├── zepto_analysis.sql
 ├── dataset.csv
 ├── README.md
-
+```
 
 ---
 
@@ -60,7 +61,10 @@ Zepto-SQL-Data-Analysis/
 
 ---
 
-  
+## 👤 Author
 
---
+**Yarragudi Bhuvanesh Reddy**  
+Aspiring Data Analyst  
+SQL | Excel | Python | Power BI
+
 
